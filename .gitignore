@@ -1,0 +1,12 @@
+db/
+incremental_db/
+output_files/
+*.rpt
+*.summary
+*.smsg
+*.jdi
+*.pin
+*.qws
+*.bak
+*.qar
+*.qarlog
